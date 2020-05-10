@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">L8_Allahverdiyev_46219</string>
+    <string name="Name">Imie</string>
+    <string name="Surname">"Nazwisko "</string>
+    <string name="Game">Gra</string>
+    <string name="Min">Min</string>
+    <string name="Max">Maksymalny</string>
+    <string name="Difference">Różnica</string>
+    <string name="Go">Udać się</string>
+    <string name="Street">Ulica</string>
+    <string name="Map">Mapa</string>
+</resources>

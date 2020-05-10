@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Caffe_nero_Allahverdiyev_46219_mid1</string>
+
+
+    <string-array name="items">
+        <item>Cappucino - 12$</item>
+        <item>Latte - 10$</item>
+        <item>GreenTea - 8$</item>
+        <item>Americano - 11$</item>
+        <item>Bagel - 15$</item>
+        <item>Espresso - 13$</item>
+        <item>Donut - 5$</item>
+    </string-array>
+
+    <string-array name="amounts">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+    </string-array>
+    <string name="title_activity_display_details_46219">Display_details_46219</string>
+
+</resources>
